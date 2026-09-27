@@ -2,7 +2,7 @@
   <img src="MARIS.jpg" alt="MARIS Logo" width="130"/>
 </p>
 
-# ? MARIS ? Hydrographic & Navigation Data Simulator
+#  MARIS - Hydrographic & Navigation Data Simulator
 
 **MARIS** is a desktop simulation suite designed for testing, validating, and operating hydrographic survey software, marine navigation systems, and onboard sensor integrations without requiring physical vessel hardware.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## ?? Key Capabilities
+## 1 Key Capabilities
 
 - **Multi-Sensor Telemetry Routing**:
   - Simulate an entire vessel instrument suite simultaneously across independent **Serial (`COM`)**, **UDP**, **TCP**, and **Local** channels, each with its own configurable transmission rate (`0.5 Hz` ? `10.0 Hz`).
@@ -29,7 +29,7 @@
 
 ---
 
-## ?? Supported NMEA 0183 Sentences (Strict UTC)
+## 2 Supported NMEA 0183 Sentences (Strict UTC)
 
 All time- and date-stamped sentences are generated strictly in **UTC**:
 
@@ -42,7 +42,7 @@ All time- and date-stamped sentences are generated strictly in **UTC**:
 
 ---
 
-## ?? Download & Installation
+## 3 Download & Installation
 
 1. Go to the [**Releases**](https://github.com/lucas-h-costa/MARIS/releases/latest) page.
 2. Download the latest Windows installer (**`MARIS_Setup_v0.1.1.exe`**).
@@ -51,7 +51,7 @@ All time- and date-stamped sentences are generated strictly in **UTC**:
 
 ---
 
-## ?? About & Contact
+## 4 About & Contact
 
 - **Current Version:** `0.1.1`
 - **Release Date:** Sep. 29th, 2026
